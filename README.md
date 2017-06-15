@@ -1,4 +1,4 @@
-**Dinero Express Chatbot**
+**CHATO BOT**
 ======================
 
 Activate virtualenv:
